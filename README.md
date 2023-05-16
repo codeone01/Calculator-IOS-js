@@ -3,4 +3,4 @@
  <p align="center">An IOS style calculator, hope you enjoy!</p>
  <p align="center">If you liked ⭐ and fork!</p>
 </p>
-<img width="300px" src="calculator-ios.png" align="center" alt="Calculator-IOS" />
+<img align="center" width="300px" src="calculator-ios.png" alt="Calculator-IOS" />
